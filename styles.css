@@ -301,10 +301,18 @@ p {
 }
 
 .btn {
-    background-color: rgb(31, 38, 59);
+    background-color: #003147;
     color: white;
+    font-weight: 600;
     align-items: center;
     padding: 8px;
     cursor: pointer;
-    border-radius: 5px;
+    border-radius: 8px;
+}
+
+.download .btn .icon {
+    display: inline-block;
+    width: 30px;
+    font-size: 18px;
+    color: white;
 }
