@@ -310,9 +310,14 @@ p {
     border-radius: 8px;
 }
 
+button:hover {
+    color: #001F3F;
+    background-color: #fff;
+}
+
 .download .btn .icon {
     display: inline-block;
     width: 30px;
     font-size: 18px;
-    color: white;
+    color: #03a9f4;
 }
